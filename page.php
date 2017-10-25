@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Ma page web</title>
+        <title>Ma page web 1</title>
     </head>
     <body>
         <h1>Ma page web</h1>
